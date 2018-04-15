@@ -32,6 +32,9 @@ Descriptor on Railway Track](http://www.ijircce.com/upload/2016/february/20_Obst
 Infra-red Images ](http://ijssst.info/Vol-17/No-28/paper14.pdf)
 6. [Deep Learning for Robust Road Object
 Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/249747.pdf)
+7. [Fastest Pedestrian Detector ](http://ijcsit.com/docs/Volume%206/vol6issue02/ijcsit20150602114.pdf)
+      * HOG
+8. [Obstacles and Pedestrian Detection on a Moving Vehicle](https://pdfs.semanticscholar.org/d9a6/14096dba08eae1fab8fc9d48d1c8e125e0c9.pdf)
       
       
 ## Github Repositories
