@@ -19,4 +19,8 @@ Curated list of papers on the topic of Pedestrian Detection
      * For both stages, 
         * SGD RMSProp
         * Batch Normalisation
+        
+        
+        
+   2. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
      
