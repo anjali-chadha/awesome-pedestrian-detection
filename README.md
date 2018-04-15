@@ -31,3 +31,4 @@ Curated list of papers on the topic of Pedestrian Detection
 2. [Convert Caltech annontations to Yolo compatible format](https://github.com/Jumabek/convert_caltech_annos_to_yolo)     
 3. [DeepPed: Deep CNN for Pedestrian Detection (2016)](https://github.com/DenisTome/DeepPed)
 4. [LSTM-RCNN Pedestrian Detection](https://github.com/buffer51/lstm-rcnn-pedestrian-detection)
+5. [Segmentation Based Approach for Pedestrian Detection](https://github.com/colegulino/Deep-Neural-Networks-for-Pedestrian-Detection)
