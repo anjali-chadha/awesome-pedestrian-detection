@@ -30,6 +30,8 @@ Descriptor on Railway Track](http://www.ijircce.com/upload/2016/february/20_Obst
       * Using edge based orientation information
 5. [Night-time Pedestrian Detection Based on Temperature and HOGI Feature in
 Infra-red Images ](http://ijssst.info/Vol-17/No-28/paper14.pdf)
+6. [Deep Learning for Robust Road Object
+Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/249747.pdf)
       
       
 ## Github Repositories
