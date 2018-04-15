@@ -1,6 +1,6 @@
-# papers-pedestrian-detection
+# awesome-pedestrian-detection
 Curated list of papers on the topic of Pedestrian Detection
-
+## Papers
 1. [Pedestrian detection in video surveillance using fully convolutional YOLO neural network](https://www.researchgate.net/publication/317967088_Pedestrian_detection_in_video_surveillance_using_fully_convolutional_YOLO_neural_network) 
     * Combine detection and classification tasks using CNN.
     * YOLO CNN - Drawbacks:
@@ -20,7 +20,13 @@ Curated list of papers on the topic of Pedestrian Detection
         * SGD RMSProp
         * Batch Normalisation
         
+2. [Deep convolutional neural networks for pedestrian detection](https://arxiv.org/pdf/1510.03608.pdf)
+      * 
+      
+      
+      
+## Github Repositories
         
-        
-2. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
-3. [Convert Caltech annontations to Yolo compatible format](https://github.com/Jumabek/convert_caltech_annos_to_yolo)     
+1. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
+2. [Convert Caltech annontations to Yolo compatible format](https://github.com/Jumabek/convert_caltech_annos_to_yolo)     
+3. [DeepPed: Deep CNN for Pedestrian Detection (2016)](https://github.com/DenisTome/DeepPed)
