@@ -22,6 +22,8 @@ Curated list of papers on the topic of Pedestrian Detection
         
 2. [Deep convolutional neural networks for pedestrian detection](https://arxiv.org/pdf/1510.03608.pdf)
       * Extends R-CNN
+3. [Adaptive Feeding: Achieving Fast and Accurate Detections by Adaptively
+Combining Object Detectors](https://arxiv.org/pdf/1707.06399.pdf)      
       
       
       
