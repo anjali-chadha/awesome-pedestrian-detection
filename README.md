@@ -42,4 +42,4 @@ Infra-red Images ](http://ijssst.info/Vol-17/No-28/paper14.pdf)
 
 
 ## All and Sundry:
-1. (Deep Learning in Video Surveillance Slides)[https://www.ee.cuhk.edu.hk/~xgwang/MSF.pdf]
+1. [Deep Learning in Video Surveillance Slides](https://www.ee.cuhk.edu.hk/~xgwang/MSF.pdf])
