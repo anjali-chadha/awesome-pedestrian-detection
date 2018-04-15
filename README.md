@@ -35,6 +35,7 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 7. [Fastest Pedestrian Detector ](http://ijcsit.com/docs/Volume%206/vol6issue02/ijcsit20150602114.pdf)
       * HOG
 8. [Obstacles and Pedestrian Detection on a Moving Vehicle](https://pdfs.semanticscholar.org/d9a6/14096dba08eae1fab8fc9d48d1c8e125e0c9.pdf)
+9. [Nighttime Pedestrian Detection with a Normal Camera Using SVM Classifier](https://link.springer.com/chapter/10.1007/11427445_30)
       
       
 ## Github Repositories
