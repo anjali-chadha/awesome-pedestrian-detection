@@ -52,3 +52,5 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 ## All and Sundry on Object Detection in general:
 1. [Deep Learning in Video Surveillance Slides](https://www.ee.cuhk.edu.hk/~xgwang/MSF.pdf)
 2. [Selective Search Poster](https://www.koen.me/research/pub/vandesande-iccv2011-poster.pdf)
+3. [Pedestrian Detection and Distance Estimation Slides](https://www.slideshare.net/omidAsudeh/real-time-pedestrian-detection-tracking-and-distance-estimation?qid=9fb687b8-d1b7-4094-8d5a-e185a8dbe1a8&v=&b=&from_search=1)
+      * [Code](https://sourceforge.net/projects/pedestriandetectiontracking/)
