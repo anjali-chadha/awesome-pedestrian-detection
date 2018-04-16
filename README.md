@@ -36,7 +36,8 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
       * HOG
 8. [Obstacles and Pedestrian Detection on a Moving Vehicle](https://pdfs.semanticscholar.org/d9a6/14096dba08eae1fab8fc9d48d1c8e125e0c9.pdf)
 9. [Nighttime Pedestrian Detection with a Normal Camera Using SVM Classifier](https://link.springer.com/chapter/10.1007/11427445_30)
-10. [Pedestrian Detection with RCNN](http://cs229.stanford.edu/proj2015/172_report.pdf)     
+10. [Pedestrian Detection with RCNN](http://cs229.stanford.edu/proj2015/172_report.pdf) 
+11. [Caltech Pedestrian Dataset: Evaluated Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF8539B8E398147CAD873FCFF6234EAF?doi=10.1.1.433.5334&rep=rep1&type=pdf)
       
 ## Github Repositories
         
