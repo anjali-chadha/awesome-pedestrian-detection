@@ -38,7 +38,7 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 9. [Nighttime Pedestrian Detection with a Normal Camera Using SVM Classifier](https://link.springer.com/chapter/10.1007/11427445_30)
 10. [Pedestrian Detection with RCNN](http://cs229.stanford.edu/proj2015/172_report.pdf) 
 11. [Caltech Pedestrian Dataset: Evaluated Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF8539B8E398147CAD873FCFF6234EAF?doi=10.1.1.433.5334&rep=rep1&type=pdf)
-      
+ 
 ## Github Repositories
         
 1. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
@@ -46,7 +46,7 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 3. [DeepPed: Deep CNN for Pedestrian Detection (2016)](https://github.com/DenisTome/DeepPed)
 4. [LSTM-RCNN Pedestrian Detection](https://github.com/buffer51/lstm-rcnn-pedestrian-detection)
 5. [Segmentation Based Approach for Pedestrian Detection](https://github.com/colegulino/Deep-Neural-Networks-for-Pedestrian-Detection)
-
+6. [Ped Dect using SVM](https://github.com/WuLC/Pedestrian-Detection)  
 
 ## All and Sundry:
 1. [Deep Learning in Video Surveillance Slides](https://www.ee.cuhk.edu.hk/~xgwang/MSF.pdf)
