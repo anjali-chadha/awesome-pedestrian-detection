@@ -49,5 +49,6 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 5. [Segmentation Based Approach for Pedestrian Detection](https://github.com/colegulino/Deep-Neural-Networks-for-Pedestrian-Detection)
 6. [Ped Dect using SVM](https://github.com/WuLC/Pedestrian-Detection)  
 
-## All and Sundry:
+## All and Sundry on Object Detection in general:
 1. [Deep Learning in Video Surveillance Slides](https://www.ee.cuhk.edu.hk/~xgwang/MSF.pdf)
+2. [Selective Search Poster](https://www.koen.me/research/pub/vandesande-iccv2011-poster.pdf)
