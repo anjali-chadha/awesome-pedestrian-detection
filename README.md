@@ -26,6 +26,13 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
  14. [Filtered Channel Features for Pedestrian Detection](https://arxiv.org/abs/1501.05759)
  15. [Detecting Pedestrians Using Patterns of Motion and Appearance](https://dl.acm.org/citation.cfm?id=1057318)
  16. [Pedestrian Detection: An Evaluation of the State of the Art ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5975165)
+17. [Monocular Pedestrian Detection: Survey and Experiments](https://ieeexplore.ieee.org/abstract/document/4657363/)
+18. [](https://link.springer.com/content/pdf/10.1007/s11063-018-9837-1.pdf)
+19. [Automatic pedestrian detection in partially occluded single image](https://content.iospress.com/articles/integrated-computer-aided-engineering/ica573)
+20. [Pedestrian Detection via Body-part Semantic and Contextual Information with DNN](https://ieeexplore.ieee.org/abstract/document/8345752/)
+21. [Pedestrian detection using improved proposal boxes and grayscale convolutional learning](https://ieeexplore.ieee.org/abstract/document/8342371/)
+22. [Rapid Pedestrian Detection Based on Deep Omega-Shape Features with Partial Occlusion Handing](https://link.springer.com/content/pdf/10.1007/s11063-018-9837-1.pdf)
+
 ## Github Repositories
         
 1. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
