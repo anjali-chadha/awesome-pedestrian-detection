@@ -2,23 +2,6 @@
 Curated list of papers on the topic of Pedestrian Detection
 ## Papers
 1. [Pedestrian detection in video surveillance using fully convolutional YOLO neural network](https://www.researchgate.net/publication/317967088_Pedestrian_detection_in_video_surveillance_using_fully_convolutional_YOLO_neural_network) 
-    * Combine detection and classification tasks using CNN.
-    * YOLO CNN - Drawbacks:
-        * Full connected layers that obstruct applying the CNN to images with different resolution.
-        * Limits the ability to disitinguish small close human figures in groups
-    * Changed network architecture overcoming above drawbacks.
-    * Datasets:
-        * Caltech
-        * Kitty
-        * Moscow city surveillance data
-    * Two stages of traning:
-        * Pre-trained new added convolutional layers on Caltech, Kitti
-            * Didn't freeze the initial layers
-        * Fine tune on ow datasets
-            * Learning only for new layers
-     * For both stages, 
-        * SGD RMSProp
-        * Batch Normalisation
         
 2. [Deep convolutional neural networks for pedestrian detection](https://arxiv.org/pdf/1510.03608.pdf)
       * Extends R-CNN
@@ -41,6 +24,7 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
  12. [Ten Years of Pedestrian Detection, What Have We Learned?](https://arxiv.org/pdf/1411.4304.pdf)
  13. [Word Channel Based Multiscale Pedestrian Detection Without Image Resizing and Using Only One Classifier](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Costea_Word_Channel_Based_2014_CVPR_paper.pdf)
  14. [Filtered Channel Features for Pedestrian Detection](https://arxiv.org/abs/1501.05759)
+ 15. [Detecting Pedestrians Using Patterns of Motion and Appearance](https://dl.acm.org/citation.cfm?id=1057318)
 ## Github Repositories
         
 1. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
