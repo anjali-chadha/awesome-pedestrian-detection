@@ -25,6 +25,7 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
  13. [Word Channel Based Multiscale Pedestrian Detection Without Image Resizing and Using Only One Classifier](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Costea_Word_Channel_Based_2014_CVPR_paper.pdf)
  14. [Filtered Channel Features for Pedestrian Detection](https://arxiv.org/abs/1501.05759)
  15. [Detecting Pedestrians Using Patterns of Motion and Appearance](https://dl.acm.org/citation.cfm?id=1057318)
+ 16. [Pedestrian Detection: An Evaluation of the State of the Art ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5975165)
 ## Github Repositories
         
 1. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
@@ -33,6 +34,8 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 4. [LSTM-RCNN Pedestrian Detection](https://github.com/buffer51/lstm-rcnn-pedestrian-detection)
 5. [Segmentation Based Approach for Pedestrian Detection](https://github.com/colegulino/Deep-Neural-Networks-for-Pedestrian-Detection)
 6. [Ped Dect using SVM](https://github.com/WuLC/Pedestrian-Detection)  
+
+
 
 ## All and Sundry on Object Detection in general:
 1. [Deep Learning in Video Surveillance Slides](https://www.ee.cuhk.edu.hk/~xgwang/MSF.pdf)
