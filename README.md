@@ -40,6 +40,7 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 11. [Caltech Pedestrian Dataset: Evaluated Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF8539B8E398147CAD873FCFF6234EAF?doi=10.1.1.433.5334&rep=rep1&type=pdf)
  12. [Ten Years of Pedestrian Detection, What Have We Learned?](https://arxiv.org/pdf/1411.4304.pdf)
  13. [Word Channel Based Multiscale Pedestrian Detection Without Image Resizing and Using Only One Classifier](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Costea_Word_Channel_Based_2014_CVPR_paper.pdf)
+ 14. [Filtered Channel Features for Pedestrian Detection](https://arxiv.org/abs/1501.05759)
 ## Github Repositories
         
 1. [Caltech Pedestrain Dataset Converter for Python users](https://github.com/mitmul/caltech-pedestrian-dataset-converter)
