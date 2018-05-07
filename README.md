@@ -32,6 +32,7 @@ Detection (Thesis)](http://publications.lib.chalmers.se/records/fulltext/249747/
 20. [Pedestrian Detection via Body-part Semantic and Contextual Information with DNN](https://ieeexplore.ieee.org/abstract/document/8345752/)
 21. [Pedestrian detection using improved proposal boxes and grayscale convolutional learning](https://ieeexplore.ieee.org/abstract/document/8342371/)
 22. [Rapid Pedestrian Detection Based on Deep Omega-Shape Features with Partial Occlusion Handing](https://link.springer.com/content/pdf/10.1007/s11063-018-9837-1.pdf)
+23. [Pedestrian Detection in Crowded Scenes](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/leibe-cvpr-05.pdf)
 
 ## Github Repositories
         
